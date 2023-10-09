@@ -13,7 +13,7 @@ public class CashbackHackServiceTest {
         assertEquals(expected, actual);
     }
     @org.junit.Test
-    public void testRoundary() {
+    public void testBoundary() {
         CashbackHackService service = new CashbackHackService();
         int amount = 900;
         int actual = service.remain(amount);
