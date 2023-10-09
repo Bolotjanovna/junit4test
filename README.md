@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/Bolotjanovna/junit4test/actions/workflows/gradle-publish.yml/badge.svg?branch=main)](https://github.com/Bolotjanovna/junit4test/actions/workflows/gradle-publish.yml)
